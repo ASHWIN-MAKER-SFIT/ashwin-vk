@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 My web-portfolio is available at [https://ashwin56.netlify.app/](https://ashwin56.netlify.app/)
 
 - 📫 How to reach me **lazerviji80@gmail.com**
 
